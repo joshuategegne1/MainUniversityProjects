@@ -9,3 +9,5 @@ Here you can see the major projects I have done in the first two years of my deg
 "Statistics Coursework Y2" is another project I did my first term of Year 2 for Statistics. I used R to model a genome sequence as a Markov chain, investigating how effective it would be to regard base pairs as being chosen independently of their surroundings with hypothesis testing and verified Wilks’ theorem with the likelihood ratio statistic of the model parameters.
 
 "Time Series Project Y2" is a group-based research project I did at the end of Year 2. We explored how we can fit stock data to a time series data model, conducted hypothesis tests to see how accurate our fit was, then used this forecast our data and make future predictions, using both R and Python, as well as a wide range of statistical theory.
+
+"Numerical Analysis Y2 Project" is a coursework where we explore approximate schemes to the derivatives of functions, create Python functions that let us perform operations on polynomials and then using finite differences we approximate solutions to a differential equation .
