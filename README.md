@@ -1,6 +1,6 @@
 # MainUniversityProjects
 
-Here you can see my 3 main projects that I have done at university so far.
+Here you can the major projects I have done in the first two years of my degree.
 
 "Poster Project Y1" is my poster project that I did at the end of Year 1, where I used non-linear regression to fit an SIR model to coronavirus data. I performed numerical integration a system of 3 coupled differential equations via Python and applied the graphical Monte Carlo simulation to determine the parameters that minimise the residual sum of squares, and then wrote up my created my project on Latex where I discussed my results with a wide variety of graphs.
 
