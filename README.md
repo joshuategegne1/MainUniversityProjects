@@ -11,3 +11,7 @@ Here you can see the major projects I have done in the first two years of my deg
 "Time Series Project Y2" is a group-based research project I did at the end of Year 2. We explored how we can fit stock data to a time series data model, conducted hypothesis tests to see how accurate our fit was, then used this forecast our data and make future predictions, using both R and Python, as well as a wide range of statistical theory.
 
 "Numerical Analysis Y2 Project" is a coursework where we explore approximate schemes to the derivatives of functions, create Python functions that let us perform operations on polynomials and then using finite differences we approximate solutions to a differential equation .
+
+"Time Series Analysis Y3" is a statistical project where created functions to simulate ARMA processes and their spectral density functions. I looked at how the sample bias of the periodogram and direct spectral estimator, estimators for the spectral density function, varied with the roots of the characterstic polynomial. After I used a variety of methods to fit a time series to an AR process, and made forecasts with confidence intervals.
+
+"Stochastic Simulation Y3" is a statistical project where I used a rejection scheme to sample from a probability density function up to proportionality. I investigated the acceptance rate and computational time of the algorithm, using diagnostic plots and statistical tests. I also devised a Monte Carlo estimator for the integral of the probability density function, using variance reduction techniques where possible.
